@@ -1,8 +1,7 @@
 
 <h1 align="center">
 
-Olá, eu sou o William! <iframe src="https://giphy.com/embed/xTiTnBSIn7vTqCDKJW" width="329" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/alien-et-aliens-xTiTnBSIn7vTqCDKJW">via GIPHY</a></p>
-
+Olá, eu sou o William! <iframe src="https://giphy.com/embed/xTiTnBSIn7vTqCDKJW" width="329" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </h1>
 
  . | .
