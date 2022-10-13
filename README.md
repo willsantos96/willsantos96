@@ -1,7 +1,7 @@
 
 <h1 align="center">
-
- <img src="https://giphy.com/embed/xTiTnBSIn7vTqCDKJW" width="329"  Olá, eu sou o William!
+ 
+ 👽  Olá, eu sou o William!  👽
                             
 </h1>
 
