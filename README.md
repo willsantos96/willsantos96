@@ -1,7 +1,7 @@
 
 <h1 align="center">
  
- 👽  Olá, eu sou o William!  👽
+ 👽  Olá, eu sou o William!  👋
                             
 </h1>
 
