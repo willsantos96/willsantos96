@@ -1,7 +1,8 @@
 
 <h1 align="center">
 
-Olá, eu sou o William! <iframe src="https://giphy.com/embed/xTiTnBSIn7vTqCDKJW" width="329" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ <img src="https://giphy.com/embed/xTiTnBSIn7vTqCDKJW" width="329"  Olá, eu sou o William!
+                            
 </h1>
 
  . | .
