@@ -13,5 +13,6 @@ Olá, eu sou o William!  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<!-- ### 📈 GitHub Activity Graph:
 ![willsantos96's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=willsantos96&hide_border=true&theme=redical)
+-->
